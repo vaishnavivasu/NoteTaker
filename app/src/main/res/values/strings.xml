@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note Taker</string>
+    <string name="note_title">Title</string>
+    <string name="notes_text">Enter your text here...</string>
+</resources>
